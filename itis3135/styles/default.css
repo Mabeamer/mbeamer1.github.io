@@ -10,11 +10,6 @@ body
     margin-left: 75px;
     margin-right: 75px;
 }
-img{
-    max-width: 40%;
-    height:auto;
-}
-
 header, footer
 {
     text-align: center;
